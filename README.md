@@ -1,3 +1,2 @@
-# 30battle-graphic
+# SeaBattle - game
 
-اضافی دارع درستش کن 
